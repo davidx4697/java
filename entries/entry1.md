@@ -14,6 +14,5 @@ Java is considered a legacy programming language and can be coded using a termin
 
 ## Why Java?
 
-[Should you Learn Java in 2018?](https://www.youtube.com/watch?v=nH9AhuxUWMM)
+[Should you Learn Java in 2018? (Youtube Video)](https://www.youtube.com/watch?v=nH9AhuxUWMM)
 
-yyq4R7g-Al)
