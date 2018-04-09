@@ -1,4 +1,4 @@
-# Indenpendent Study: Java
+# Independent Study: Java
 
 ## Table of Contents
 
