@@ -25,7 +25,7 @@ System.out.println("Woof!");
 	}
 }
 ```
-Just like in Ruby you have to create the variables first, call a method that defines those variables, and then you can make the methods that determine what those variables can do. In this case the method, `bark` prints `"Woof!"` and the method `run` prints `"Your dog ran " + feet + " feet!"`. Additionally the method 
+Just like in Ruby you have to create the variables first, call a method that defines those variables, and then you can make the methods that determine what those variables can do. In this case the method, `bark` prints `"Woof!"` and the method `run` prints `"Your dog ran " + feet + " feet!"`. Additionally the method below ...
 ```java 
 public void run (int feet) {
  	System.out.println("Your dog ran " + feet + " feet!");
@@ -36,7 +36,7 @@ public void run (int feet) {
         spike.run(54);
 	}
 ```
-Must be called or the whole file will respond with a error. The method 'main' must be called atleast once in every Java file for it to run. The reasoning behind this rule was said to be a convention according to the java reference website. 
+...must be called or the whole file will respond with a error. The method 'main' must be called atleast once in every Java file for it to run. The reasoning behind this rule was said to be a convention according to the java reference website. 
 
 ## Innerclasses
 In java you can create classes inside classes. The information inside the inside classes can then be used by the other inside classes within the outer class. The following shows an example of how Java Innerclasses work and look like.
