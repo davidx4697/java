@@ -8,3 +8,4 @@
 + [Entry 4: Object Oriented](entries/entry4.md)
 + [Entry 5: Methods](entries/entry5.md)
 + [Entry 6: MVP](entries/entry6.md)
++ [Entry 7: Improving MVP](entries/entry7.md)
