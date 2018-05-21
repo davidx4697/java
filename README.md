@@ -9,3 +9,4 @@
 + [Entry 5: Methods](entries/entry5.md)
 + [Entry 6: MVP](entries/entry6.md)
 + [Entry 7: Improving MVP](entries/entry7.md)
++ [Entry 8: Message Client](entries/entry8.md)
