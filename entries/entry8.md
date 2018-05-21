@@ -24,7 +24,7 @@ for (int i = 0; i < thoughts.size(); i++) {
 This for loop successfully grabs and creates a new JLabel using the user's input except there's a small problem. JLabels do not accept line breaks or go to the next line by default. It seems after googling the only way to make a user's input print on a seperate line is by creating a JTextArea. The syntax for a JTextArea is different and I will learn it in the next couple of days. 
 
 Challenge:
-<img src="../images/challenge ent8.png"/>
+<img src="../images/challenge ent8.PNG"/>
 
 ### Takeaways
 
